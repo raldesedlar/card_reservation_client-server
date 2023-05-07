@@ -1,7 +1,4 @@
-# card_reservation_client-server
- Card reservation Client/Server application
-
-Mrežno programiranje
+# card_reservation_client-server / Mrežno programiranje
 
 Potrebno je napraviti klijent-server aplikaciju za rezervaciju karata.Aplikacija treba da omogući sledeće funkcionalnosti:
 ●Rezervaciju karata za svetsko prvenstvo;
